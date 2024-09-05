@@ -1,4 +1,3 @@
-```markdown
 # CallerAPI
 
 ## Table of Contents
@@ -66,5 +65,3 @@ Access the API Root interface at [http://127.0.0.1:8000/](http://127.0.0.1:8000/
 - `/users/`: List all registered users with details.
 - `/contacts/`: List and create Contacts.
 - `/search/`: Search Name and Phone Number using [http://127.0.0.1:8000/search/?Search="your_search_query"]([http://127.0.0.1:8000/search/?Search="your_search_query")
-
-```
